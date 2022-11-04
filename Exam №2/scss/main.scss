@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter;
+}
+
+.main {
+  background-color: rgba(20, 94, 118, 1);
+  width:100%;
+  height: 900px;
+  padding-left: 90px;
+
+}
+
+.div1 {
+  font-family: "Schoolbell";
+  padding-top: 253px;
+
+  button {
+    background-color: rgba(9, 69, 86, 1);
+    border-radius: 30px;
+    width: 195px;
+    height: 65px;
+
+  }
+}
+
+.big_img {
+  padding-left: 500px;
+}
+
+.div_main {
+  padding-top: 253px;
+  margin-right: 700px;
+}
+
+.button_main_1 {
+  border-radius: 30px;
+  width: 195px;
+  height: 65px;
+  background-color: rgba(9, 69, 86, 1);
+  font-family: Schoolbell;
+  font-size: 24px;
+}
+
+.h1_main {
+  font-family: "Inter";
+  font-size: 64px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.p_main {
+  font-family: "Inter";
+  font-size: 18px;
+  color: rgba(132, 148, 153, 1);
+}
+
+.button_main_2:hover {
+  background-color: rgba(255, 166, 58, 1);
+  width: 137px;
+  height: 61px;
+  border-radius: 25px;
+}
+
+.p_main_3 {
+  font-size: 18px;
+  font-family: "Inter";
+  color: rgba(132, 148, 153, 1);
+}
+
+.div_section_2_border {
+  // width: 1170px;
+  // height: 323px;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+  padding-left: 376px;
+  border: 1000px 323px black;
+}
+
+.p_4 {
+  color: rgba(38, 90, 106, 1);
+  font-size: 24px;
+  font-family: "Inter";
+}
+
+.div_2_section_3:hover {
+  background-color: rgba(8, 84, 108, 1);
+
+  h1 {
+    color: white;
+  }
+}
+
+.div_3_section_3:hover {
+  background-color: rgba(8, 84, 108, 1);
+
+  h1 {
+    color: white;
+  }
+}
+
+.div_4_section_3:hover {
+  background-color: rgba(8, 84, 108, 1);
+
+  h1 {
+    color: white;
+  }
+}
+
+.div_5_section_3:hover {
+  background-color: rgba(8, 84, 108, 1);
+
+  h1 {
+    color: white;
+  }
+}
+
+.type_servise {
+  font-family: " Schoolbell";
+  padding-top: 200px;
+}
+
+.card:hover {
+  background-color: black;
+  color: white;
+}
+
+.card-link:hover {
+  color: yellow;
+}
+
+.section_5 {
+  width: 100%;
+  background-color: rgba(38, 90, 106, 1);
+  margin-top: 200px;
+}
+.strelka{
+  padding-top: 41px;
+}
+.vector{
+  padding-top: 132px;
+}
+.buton_phone_section{
+  width: 191px;
+  height: 61px;
+  border-radius: 30px;
+background-color: rgba(255, 166, 58, 1) ;
+}
+.section_6{
+  padding-top: 200px;
+}
+.oval{
+padding-top: 192px;
+}
+.section_6_part_2{
+  padding-left: 137px;
+}
+.text-warning:hover{
+background-color: yellow;
+color: black;
+}
+.a_bottom{
+padding-left: 157px;
+}
+.a_center{
+  padding-left: 20px;
+}
+.a_start{
+  padding-right: 20px;
+}

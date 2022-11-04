@@ -1,0 +1,38 @@
+.header {
+  background-color: rgb(20, 94, 118);
+}
+
+.header .navbar-toggler {
+  border-color: #BBBBCB;
+  background-color: #FFFFFF;
+}
+
+.header .navbar-nav a {
+  color: #BBBBCB;
+}
+
+.header .navbar-nav a:hover {
+  color: #FFFFFF;
+}
+
+.header .offcanvas-header {
+  background-color: rgb(20, 94, 118);
+}
+
+.header .offcanvas-body {
+  background-color: rgb(20, 94, 118);
+}
+
+.header .offcanvas-body .btn {
+  border-radius: 25px !important;
+  background-color: rgb(38, 90, 106);
+  color: #BBBBCB !important;
+  border-color: #474975 !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter";
+} /*# sourceMappingURL=main.css.map *//*# sourceMappingURL=header.css.map */
